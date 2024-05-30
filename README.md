@@ -1,6 +1,6 @@
 # tarea3Appdawny
 
-Este es un proyecto desarrollado en React Native utilizando Expo. La aplicación incluye un mwnu cin varias funcionalidades a realizar.
+Esta es mi Tarea 3 de Introduccion al desarrollo de dispositivos moviles desarrollado en React Native utilizando Expo. La aplicación incluye un mwnu cin varias funcionalidades a realizar.
 
 ## Requisitos Previos
 
