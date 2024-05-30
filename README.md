@@ -2,6 +2,8 @@
 
 Esta es mi Tarea 3 de Introduccion al desarrollo de dispositivos moviles desarrollado en React Native utilizando Expo. La aplicación incluye un mwnu cin varias funcionalidades a realizar.
 
+Aqui el video de mi experiencia realizando la tarea: https://www.youtube.com/watch?v=tqqr2kFbuzA&feature=youtu.be
+
 ## Requisitos Previos
 
 - Node.js
